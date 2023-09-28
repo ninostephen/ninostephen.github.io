@@ -62,7 +62,7 @@ export default function Home(): JSX.Element {
               <strong>I empower millions through Code, Linux, and Security Expertise!</strong>
               <br />
               <br />
-              Greetings! I'm an aspiring technologist on a mission to revolutionize lives at scale.
+              Greetings! I'm a technologist on a mission to revolutionize lives at scale.
               <br />
               <br />
 
@@ -80,7 +80,7 @@ export default function Home(): JSX.Element {
               My Skills:
             </Typography>
             <Typography variant="body1" gutterBottom>
-              Golang, Linux, Docker, Kubernetes, Homelabbing and More!
+              Golang, Linux, GenAI, Kubernetes, Homelabbing and More!
             </Typography>
           </animated.div>
           &nbsp;
