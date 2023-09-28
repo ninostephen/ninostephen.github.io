@@ -300,9 +300,22 @@ export default [
       </>
     ),
   },
-
   {
     key: 18,
+    rank: "Manager",
+    department: "Cyber Security Consulting",
+    avatar: "/img/profilepics/user.png",
+    url: "",
+    domain: "Technology Consulting Domain",
+    content: (
+      <>
+        <br />
+        Nino was a part of the <span className="redacted">[Redacted Team Name]</span> team helping me develop <span className="redacted">[Redacted Task Name]</span> for various audience levels (Executive, CISO, operational) at the client. Nino was a great asset on the engagement. <strong>His proactive approach to working played a big part in achieving our objectives despite the tight project timelines. He plans his work well and does a great job in asking the right questions to better understand the ask before taking action. He is a team player who works well with his teammates and prioritizes the team's objective over individual ones. He created quality work product with quick turnarounds that are well received by the clients</strong>. I would recommend Nino for <span className="redacted">[Redacted Task Name]</span> engagements and look forward to working with him again in the future.
+      </>
+    ),
+  },
+  {
+    key: 19,
     rank: "Manager",
     department: "Application Security Consulting",
     avatar: "/img/profilepics/user.png",
